@@ -1,0 +1,5 @@
+Car Model: Corolla
+Year Made: 1900
+Trim: LX, DX, WRX
+Car Type: Sedan
+Car MPG: 80
